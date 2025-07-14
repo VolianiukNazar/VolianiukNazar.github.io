@@ -31,25 +31,12 @@ p {
 }
 
 .card {
-    display: flex;
-    flex-direction: column;
     background-color: #e6b3b3;
-    height: 705px;
 }
 
 .card a {
     text-decoration: none;
     color: black;
-}
-
-.card-body {
-    display: flex;
-    flex-direction: column;
-    flex: 1; 
-}
-
-.card-text {
-    flex: 1; 
 }
 
 .slide-text ,
